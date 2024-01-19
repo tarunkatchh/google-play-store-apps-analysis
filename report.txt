@@ -1,0 +1,5 @@
+Some of key findings
+• Utilized EDA (Numpy, Pandas) with visualizations (Matplotlib, Seaborn) for dataset analysis.
+• Analyzed Play Store trends and user behavior using download rates, ratings data, top Free vs Paid apps
+• Researched 100% growth cases, identifying key strategies for rapid user expansion
+• Extracted insights from user feedback, 20 top-rated apps and Presented insights for effective decision-making
